@@ -8,7 +8,7 @@ Enterprise-Grade networking |▮▮▮▮▮▮▯▯▯▯|
 
 Enterprise-Grade Virtualization and docker |▮▮▮▮▮▯▯▯▯▯|
 
-Enterprise cybersecurity and pentesting |▮▮▮▮▮▮▯▯▯
+Enterprise cybersecurity and pentesting |▮▮▮▮▮▮▯▯▯|
 
 Etical hacking |▮▮▮▮▮▮▮▯▯▯|
 
@@ -19,6 +19,9 @@ Android devices hacking |▮▮▮▮▮▮▯▯▯▯|
 In-life corporation data security testing |▮▮▮▮▯▯▯▯▯▯|
 
 Python3 |▮▮▮▮▯▯▯▯▯▯|
+
+C++ |▮▮▯▯▯▯▯▯▯▯|
+
 
 --------------------------------------------------------------------------------------------------
 
