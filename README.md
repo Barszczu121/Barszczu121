@@ -12,7 +12,7 @@ Enterprise cybersecurity and pentesting |▮▮▮▮▮▮▯▯▯
 
 Etical hacking |▮▮▮▮▮▮▮▯▯▯|
 
-Web application analisis and exploitation |▮▮▮▮▮▯▯▯▯▯|
+Web application analysis and exploitation |▮▮▮▮▮▯▯▯▯▯|
 
 Android devices hacking |▮▮▮▮▮▮▯▯▯▯|
 
