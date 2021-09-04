@@ -1,6 +1,6 @@
 HI. Im Barszczu.
 -------------------------------------------------------------------------------------------------
-Interested in etical hacking and pentesting
+Interested in ethical hacking and pentesting
 -------------------------------------------------------------------------------------------------
 My Computer and Programming skills:
 
@@ -10,7 +10,7 @@ Enterprise-Grade Virtualization and docker |▮▮▮▮▮▯▯▯▯▯|
 
 Enterprise cybersecurity and pentesting |▮▮▮▮▮▮▯▯▯|
 
-Etical hacking |▮▮▮▮▮▮▮▯▯▯|
+Ethical hacking |▮▮▮▮▮▮▮▯▯▯|
 
 Web application analysis and exploitation |▮▮▮▮▮▯▯▯▯▯|
 
