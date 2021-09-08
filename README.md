@@ -39,7 +39,7 @@ Russian |▮▮▯▯▯▯▯▯▯▯|
 
 My active and finished courses
 
-Udemy CCN Encor - active
+Udemy CCNP Encor - active
 
 Udemy CCNA - active
 
